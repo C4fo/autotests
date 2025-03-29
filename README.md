@@ -8,7 +8,7 @@ My Cypress Project
 
 Клонируйте репозиторий:
 
-git clone https://github.com/your-username/my-cypress-project.git
+git clone https://github.com/c4fo/my-cypress-project.git
 cd my-cypress-project
 
 Установите зависимости:
