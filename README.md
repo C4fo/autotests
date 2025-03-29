@@ -8,7 +8,7 @@ My Cypress Project
 
 Клонируйте репозиторий:
 
-git clone https://github.com/c4fo/my-cypress-project.git
+git clone https://github.com/c4fo/autotests.git
 cd my-cypress-project
 
 Установите зависимости:
